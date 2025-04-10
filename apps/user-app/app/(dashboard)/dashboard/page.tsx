@@ -1,3 +1,11 @@
 export default function () {
-  return <div>This is our app dashboard</div>;
+  return (
+    <>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+    </>
+  );
 }
