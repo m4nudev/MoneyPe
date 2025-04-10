@@ -6,6 +6,11 @@ export default function () {
       <div>dashboard</div>
       <div>dashboard</div>
       <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
+      <div>dashboard</div>
     </>
   );
 }
